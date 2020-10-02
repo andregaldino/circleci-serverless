@@ -1,0 +1,11 @@
+{
+  "name": "circleci-serverless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andregaldino/circleci-serverless.git",
+  "author": "André Galdino <andre.galdinolima@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless": "^2.4.0"
+  }
+}
